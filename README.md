@@ -17,10 +17,7 @@ HematoVision is a deep learning-powered web application designed for **automated
 - [✅ Advantages](#-advantages)
 - [⚠️ Limitations](#️-limitations)
 - [🔭 Future Scope](#-future-scope)
-- [📁 Project Structure](#-project-structure)
 - [💻 How to Run Locally](#-how-to-run-locally)
-- [🔗 Demo & GitHub](#-demo--github)
-- [📂 Dataset](#-dataset)
 
 ---
 
