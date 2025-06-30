@@ -126,10 +126,6 @@ HematoVision automates this with AI, delivering consistent and fast results.
 
 ---
 
-HematoVision/ ├── app.py (Main Flask app) ├── hemato_model.h5 (Trained model file) ├── static/ (CSS, JS files) ├── templates/ (HTML templates) ├── preprocessing.py (Image preprocessing utilities) ├── requirements.txt (Python dependencies) ├── screenshots/ (Output screenshots) └── README.md (Project documentation)
-
----
-
 ## 💻 How to Run Locally
 
 ```bash
