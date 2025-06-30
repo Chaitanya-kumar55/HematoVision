@@ -148,3 +148,8 @@ HematoVision/
 ```bash
 git clone https://github.com/yourusername/hematovision.git
 cd hematovision
+
+2. **Install dependencies**
+```bash
+pip install -r requirements.txt
+
