@@ -149,7 +149,9 @@ HematoVision/
 git clone https://github.com/yourusername/hematovision.git
 cd hematovision
 
-2. **Install dependencies**
-```bash
 pip install -r requirements.txt
+
+python app.py
+
+http://127.0.0.1:5000/
 
