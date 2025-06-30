@@ -68,6 +68,95 @@ HematoVision automates this with AI, delivering consistent and fast results.
 
 ## 🖼️ Sample Workflow
 
-## 🖼️ Sample Workflow
-
 ![Workflow](static/Screenshot%202025-06-30%20181026.png)
+
+
+---
+
+## 📊 Technologies Used
+
+- **Language:** Python
+- **Frameworks:** Flask, TensorFlow/Keras
+- **Frontend:** HTML, CSS, JavaScript
+- **Model:** ResNet50 (or VGG16 / MobileNetV2)
+- **Dataset:** 12,000 labeled blood cell images
+
+---
+
+## 🧪 Testing and Evaluation
+
+- ✔️ Accuracy tested on validation/test sets
+- ⏱️ Prediction time evaluated under different image resolutions
+- 🧪 Functional and performance testing included
+
+---
+
+## 💡 Results
+
+- 🧠 Achieved **high accuracy** on test set
+- 📉 Reduced classification time significantly
+- 📸 User-friendly interface for non-technical users
+
+**(Screenshots can be found in `/screenshots`)**
+
+---
+
+## ✅ Advantages
+
+- ✅ High accuracy via pre-trained CNN
+- ✅ Reduces manual workload and delays
+- ✅ Easily integrable into clinical pipelines
+
+---
+
+## ⚠️ Limitations
+
+- ❌ Requires a GPU for model training
+- ❌ Relies on annotated, high-quality image data
+- ❌ Doesn't use biochemical markers, only image-based features
+
+---
+
+## 🔭 Future Scope
+
+- 🔬 Support for abnormal/malignant cells (e.g., leukemia)
+- ☁️ Cloud and mobile deployment
+- 🏥 Integration with hospital systems
+- 🔴 Real-time image classification from microscopy cameras
+
+---
+
+## 📁 Project Structure
+
+HematoVision/
+│
+├── app.py # Main Flask app
+├── hemato_model.h5 # Trained model file
+├── static/ # CSS, JS files
+├── templates/ # HTML templates
+├── preprocessing.py # Image preprocessing utilities
+├── requirements.txt # Python dependencies
+├── screenshots/ # Output screenshots
+└── README.md # Project documentation
+
+
+---
+
+## 💻 How to Run Locally
+
+1. **Clone the repository**
+```bash
+git clone https://github.com/yourusername/hematovision.git
+cd hematovision
+
+2. **Install dependencies**
+
+pip install -r requirements.txt
+
+3. **Run the application**
+
+python app.py
+
+4. **Open in browser**
+
+http://127.0.0.1:5000/
