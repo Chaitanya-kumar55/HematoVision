@@ -126,18 +126,9 @@ HematoVision automates this with AI, delivering consistent and fast results.
 
 ---
 
-## 📁 Project Structure
+## 📁 Project Structure (Single Line)
 
-HematoVision/
-│
-├── app.py # Main Flask app
-├── hemato_model.h5 # Trained model file
-├── static/ # CSS, JS files
-├── templates/ # HTML templates
-├── preprocessing.py # Image preprocessing utilities
-├── requirements.txt # Python dependencies
-├── screenshots/ # Output screenshots
-└── README.md # Project documentation
+HematoVision/ ├── app.py (Main Flask app) ├── hemato_model.h5 (Trained model file) ├── static/ (CSS, JS files) ├── templates/ (HTML templates) ├── preprocessing.py (Image preprocessing utilities) ├── requirements.txt (Python dependencies) ├── screenshots/ (Output screenshots) └── README.md (Project documentation)
 
 
 ---
