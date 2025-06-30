@@ -68,3 +68,6 @@ HematoVision automates this with AI, delivering consistent and fast results.
 
 ## 🖼️ Sample Workflow
 
+## 🖼️ Sample Workflow
+
+![Workflow](static/Screenshot%202025-06-30%20181026.png)
